@@ -1,0 +1,55 @@
+%!Adobe-FontList 1.19
+%Locale:0x813
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GloberSemiBoldFree
+FamilyName:Glober
+StyleName:SemiBold Free
+FullName:Glober SemiBold Free
+MenuName:Glober SemiBold Free
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Yentl Ringoot\Desktop\practicum1_Yentl_Ringoot_1MMPAb\Document fonts\Glober SemiBold Free.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50464
+FileModTime:1398693240
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Glober SemiBold Free
+NameArray:0,Win,1,Glober SemiBold Free
+NameArray:0,Win,16,Glober
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GloberBold
+FamilyName:Glober
+StyleName:Bold
+FullName:GloberBold
+MenuName:Glober Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Yentl Ringoot\Desktop\practicum1_Yentl_Ringoot_1MMPAb\Document fonts\GloberBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78120
+FileModTime:1512567541
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GloberBold
+NameArray:0,Win,1,Glober Bold
+NameArray:0,Win,16,Glober
+%EndFont
+
